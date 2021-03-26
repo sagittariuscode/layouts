@@ -1,0 +1,231 @@
+<div style="width:650px;height:500px;margin:auto;">
+  <div style="width:650px;height:500px;background-color:#BF7381;overflow:hidden;font-family:calibri;font-size:9px;line-height:9px;color:#000;text-align:justify;">
+    <div style="width:556px;height:406px;float:left;background-color:rgba(0,0,0,0.1);margin:50px;border-radius:13px;">
+      <div style="width:550px;height:400px;float:left;background-color:#F6F8FD;margin:3px;border-radius:10px;">
+        <div style="width:100px;height:400px;float:left;background-color:#E6E9ED;border-radius:10px 0px 0px 10px;">
+          <div style="width:80px;height:15px;float:left;margin:10px;">
+            <div style="width:10px;height:10px;float:left;background-color:#EE4D4D;border-radius:50%;"></div>
+            <div style="width:10px;height:10px;float:left;background-color:#FFC44D;border-radius:50%;margin-left:5px;"></div>
+            <div style="width:10px;height:10px;float:left;background-color:#8BC94D;border-radius:50%;margin-left:5px;"></div>
+          </div>
+          <div style="width:80px;height:auto;float:left;font-size:20px;line-height:15px;margin-left:10px;">
+            <div style="font-size:25px;color:rgba(0,0,0,0.5);margin-left:7px;margin-top:-5px;"><strong>name here</strong></div>
+            <div style="font-size:25px;color:#fff;margin-top:-30px;margin-left:5px;"><strong>name here</strong></div>
+            <div style="font-size:8px;color:#9F9F9F;margin-top:4px;margin-left:5px;">@username</div>
+          </div>
+          <div style="width:80px;height:auto;float:left;margin:7px;">
+            <div style="width:100px;height:auto;float:left;font-size:10px;margin-top:10px;margin-left:10px;text-decoration:none;"><a href="https://www.roleplayrepublic.com/profile/view/46053" style="color:#A899A9;">>> link here</a></div>
+            <div style="width:100px;height:auto;float:left;font-size:10px;margin-top:10px;margin-left:10px;text-decoration:none;"><a href="https://www.roleplayrepublic.com/profile/view/46053" style="color:#A899A9;">>> link here</a></div>
+            <div style="width:100px;height:auto;float:left;font-size:10px;margin-top:10px;margin-left:10px;text-decoration:none;"><a href="https://www.roleplayrepublic.com/profile/view/46053" style="color:#A899A9;">>> link here</a></div>
+          </div>
+          <div style="width:90px;height:auto;float:left;margin-top:20px;margin-left:16px;">
+            <div style="font-size:12px;font-weight:bold;color:#656D78;">plot tracker</div>
+            <div style="width:70px;height:160px;float:left;overflow:hidden;margin-top:10px;border-left:1px solid #656D78;color:#656D78;">
+              <div style="width:70px;height:160px;float:left;overflow:auto;">
+                <div style="width:auto;height:auto;float:left;">
+                  <div style="width:10px;height:10px;float:left;border-top:1px solid #656D78;margin-top:10px;"></div>
+                  <div style="width:55px;height:auto;float:left;margin-top:5px;margin-left:5px;">plot name</div>
+                  <div><a href="https://www.roleplayrepublic.com/profile/view/46053" style="color:#A899A9;margin-left:5px;">room</a></div>
+                  <div style="width:55px;height:auto;float:left;margin-top:3px;margin-left:15px;color:#A899A9">status</div>
+                </div>
+                <div style="width:auto;height:auto;float:left;">
+                  <div style="width:10px;height:10px;float:left;border-top:1px solid #656D78;margin-top:10px;"></div>
+                  <div style="width:55px;height:auto;float:left;margin-top:5px;margin-left:5px;">char name</div>
+                  <div><a href="https://www.roleplayrepublic.com/profile/view/46053" style="color:#A899A9;margin-left:5px;">room</a></div>
+                  <div style="width:55px;height:auto;float:left;margin-top:3px;margin-left:15px;color:#A899A9">status</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width:410px;height:360px;float:left;overflow:hidden;margin-left:20px;">
+          <div style="width:447px;height:360px;float:left;overflow:auto;">
+            <div style="width:410px;height:auto;float:left;margin-top:30px;">
+              <div style="width:306px;height:126px;float:left;background-color:rgba(0,0,0,0.1);border-radius:13px;margin:">
+                <div style="width:300px;height:120px;float:left;background-color:#BF7381;margin:3px;border-radius:10px;overflow:hidden;"><img alt="" src="https://i.imgur.com/6CD7h19.png?1" style="width:200px;border-radius:50%;margin-top:-40px;margin-left:-40px;float:left;border-right:10px solid rgba(0,0,0,0.1);">
+                  <div style="width:110px;height:120px;float:left;margin-left:10px;">
+                    <div style="width:auto;height:auto;float:left;font-size:12px;margin-top:15px;color:#5C5C5C;font-weight:bold;"><em>the heartbreaker</em></div>
+                    <div style="width:110px;height:auto;float:left;margin-top:5px;color:#f6f8fd;"> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque efficitur bibendum libero, quis convallis libero pharetra ut. Nullam vel lorem vel enim sagittis accumsan."</div>
+                    <div style="width:auto;height:auto;float:right;margin-top:10px;"> — name here</div>
+                  </div>
+                </div>
+              </div>
+              <div style="width:86px;height:126px;float:left;background-color:rgba(0,0,0,0.1);border-radius:13px;margin-left:15px;"><img alt="" src="https://i.imgur.com/zWfD03H.png?1" style="width:80px;height:80px;float:left;border-radius:10px 10px 0px 0px;margin:3px;">
+                <div style="width:80px;height:40px;float:left;background-color:#F6F8FD;border-radius:0px 0px 10px 10px;margin-top:-3px;margin-left:3px;"></div>
+              </div>
+            </div>
+            <div style="width:366px;height:auto;float:left;margin-top:15px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:13px;">
+              <div style="width:360px;height:auto;float:left;margin:3px;background-color:#F6F8FD;border-radius:10px;">
+                <div style="width:44px;height:44px;float:left;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:20px;margin-left:-23px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">01</div>
+                  </div>
+                </div>
+                <div style="width:280px;height:auto;float:left;margin:20px;margin-left:20px;color:#000;">
+                  <div style="width:280px;height:auto;float:left;margin-bottom:3px;">
+                    <div style="width:60px;height:auto;float:left;text-align:right;">full name</div>
+                    <div style="width:190px;height:auto;float:left;margin-left:20px;">insert detail here</div>
+                  </div>
+                  <div style="width:280px;height:auto;float:left;margin-bottom:3px;">
+                    <div style="width:60px;height:auto;float:left;text-align:right;">affiliation</div>
+                    <div style="width:190px;height:auto;float:left;margin-left:20px;">insert detail here</div>
+                  </div>
+                  <div style="width:280px;height:auto;float:left;margin-bottom:3px;">
+                    <div style="width:60px;height:auto;float:left;text-align:right;">date of birth</div>
+                    <div style="width:190px;height:auto;float:left;margin-left:20px;">insert detail here</div>
+                  </div>
+                  <div style="width:280px;height:auto;float:left;margin-bottom:3px;">
+                    <div style="width:60px;height:auto;float:left;text-align:right;">occupation</div>
+                    <div style="width:190px;height:auto;float:left;margin-left:20px;">insert detail here</div>
+                  </div>
+                  <div style="width:280px;height:auto;float:left;margin-top:10px;margin-bottom:3px;">
+                    <div style="width:60px;height:auto;float:left;text-align:right;">synopsis</div>
+                    <div style="width:190px;height:auto;float:left;margin-left:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum lectus et ante ornare scelerisque. Sed mattis, augue sit amet malesuada condimentum, diam dolor ultricies dolor, non volutpat risus orci pellentesque ex.</div>
+                  </div>
+                </div>
+                <div style="width:44px;height:44px;float:right;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:-60px;margin-right:-23px;margin-bottom:20px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">#</div>
+                  </div>
+                </div>
+                <div style="width:360px;height:20px;float:left;background-color:#BF7381;border-radius:0px 0px 10px 10px;">
+                  <div style="width:auto;height:auto;float:right;font-size:15px;color:rgba(255,255,255,0.5);font-weight:bold;margin-right:10px;margin-top:5px;">title here</div>
+					
+                </div>
+              </div>
+            </div>
+            <div style="width:366px;height:auto;float:left;margin-top:15px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:13px;">
+              <div style="width:360px;height:auto;float:left;margin:3px;background-color:#F6F8FD;border-radius:10px;">
+                <div style="width:44px;height:44px;float:left;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:20px;margin-left:-23px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">02</div>
+                  </div>
+                </div>
+                <div style="width:280px;height:auto;float:left;margin:20px;margin-left:20px;color:#000;">  <div style="width:280px;height:auto;float:left;color:#000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque efficitur bibendum libero, quis convallis libero pharetra ut. Nullam vel lorem vel enim sagittis accumsan. Proin maximus nunc eget libero dictum, et aliquet turpis mollis. Suspendisse risus dolor, aliquet quis arcu non, ultrices vestibulum ipsum. Donec lobortis enim ut justo auctor, a lacinia est iaculis. Duis quis nisl eget massa aliquam viverra.<br>
+                  <br>
+                  Etiam at orci pulvinar, porta velit in, gravida urna. Nunc porta non turpis a bibendum. Suspendisse vel nisi quis lectus facilisis accumsan. Aliquam est nulla, euismod vel viverra in, efficitur non lorem</div>
+                <div style="width:260px;height:auto;float:left;margin-left:25px;margin-top:10px;margin-bottom:10px;border-left:2px solid #BF7381;">
+                  <div style="width:245px;height:auto;float:right;padding-left:10px;margin:5px;"><em>Duis at lectus ante. Aliquam sit amet quam velit. Nulla at ex sit amet est blandit posuere vitae vitae dui. Ut placerat in urna quis varius. In nec volutpat neque. </em></div>
+                </div>
+                <div style="width:280px;height:auto;float:left;color:#000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque efficitur bibendum libero, quis convallis libero pharetra ut. Nullam vel lorem vel enim sagittis accumsan. Proin maximus nunc eget libero dictum, et aliquet turpis mollis. Suspendisse risus dolor, aliquet quis arcu non, ultrices vestibulum ipsum. Donec lobortis enim ut justo auctor, a lacinia est iaculis. Duis quis nisl eget massa aliquam viverra.<br>
+                  <br>
+                  Etiam at orci pulvinar, porta velit in, gravida urna. Nunc porta non turpis a bibendum. Suspendisse vel nisi quis lectus facilisis accumsan. Aliquam est nulla, euismod vel viverra in, efficitur non lorem</div></div>
+                <div style="width:44px;height:44px;float:right;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:-60px;margin-right:-23px;margin-bottom:20px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">#</div>
+                  </div>
+                </div>
+                <div style="width:360px;height:20px;float:left;background-color:#BF7381;border-radius:0px 0px 10px 10px;">
+                  <div style="width:auto;height:auto;float:right;font-size:15px;color:rgba(255,255,255,0.5);font-weight:bold;margin-right:10px;margin-top:5px;">title here</div>
+					
+                </div>
+              </div>
+            </div>
+            <div style="width:366px;height:auto;float:left;margin-top:15px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:13px;">
+              <div style="width:360px;height:auto;float:left;margin:3px;background-color:#F6F8FD;border-radius:10px;">
+                <div style="width:44px;height:44px;float:left;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:20px;margin-left:-23px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">03</div>
+                  </div>
+                </div>
+                <div style="width:280px;height:auto;float:left;margin:20px;margin-left:20px;color:#000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque efficitur bibendum libero, quis convallis libero pharetra ut. Nullam vel lorem vel enim sagittis accumsan. Proin maximus nunc eget libero dictum, et aliquet turpis mollis. Suspendisse risus dolor, aliquet quis arcu non, ultrices vestibulum ipsum. Donec lobortis enim ut justo auctor, a lacinia est iaculis. Duis quis nisl eget massa aliquam viverra. Etiam at orci pulvinar, porta velit in, gravida urna. Nunc porta non turpis a bibendum. Suspendisse vel nisi quis lectus facilisis accumsan. Aliquam est nulla, euismod vel viverra in, efficitur non lorem</div>
+                <div style="width:44px;height:44px;float:right;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:-60px;margin-right:-23px;margin-bottom:20px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">#</div>
+                  </div>
+                </div>
+                <div style="width:360px;height:20px;float:left;background-color:#BF7381;border-radius:0px 0px 10px 10px;">
+                  <div style="width:auto;height:auto;float:right;font-size:15px;color:rgba(255,255,255,0.5);font-weight:bold;margin-right:10px;margin-top:5px;">title here</div>
+					
+                </div>
+              </div>
+            </div>
+			   <div style="width:366px;height:auto;float:left;margin-top:15px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:13px;">
+              <div style="width:360px;height:auto;float:left;margin:3px;background-color:#F6F8FD;border-radius:10px;">
+                <div style="width:44px;height:44px;float:left;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:20px;margin-left:-23px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">04</div>
+                  </div>
+                </div>
+                <div style="width:280px;height:auto;float:left;margin:20px;margin-left:20px;color:#000;"><div style="width:280px;height:auto;float:left;"><div style="width:40px;height:auto;float:left;text-align:right;">likes</div><div style="width:208px;height:auto;float:left;margin-left:20px;border-left:2px solid #BF7381;padding-left:10px;"><div style="margin-bottom:5px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae justo vitae lectus lobortis suscipit vel vitae nisl. In lobortis erat et nisi varius tincidunt. Nam gravida fermentum dapibus. Morbi scelerisque, justo eu condimentum elementum, risus nisi fermentum metus, quis pellentesque enim justo eget ex. </div></div></div><div style="width:280px;height:auto;float:left;"><div style="width:40px;height:auto;float:left;text-align:right;">dislikes</div><div style="width:208px;height:auto;float:left;margin-left:20px;border-left:2px solid #BF7381;padding-left:10px;"><div style="margin-bottom:5px;">Aliquam varius fermentum purus quis tincidunt. Ut consequat neque lacus, quis congue arcu congue non. Donec diam urna, venenatis ut pulvinar ut, ullamcorper in lorem.</div></div></div><div style="width:280px;height:auto;float:left;"><div style="width:40px;height:auto;float:left;text-align:right;">life goals</div><div style="width:208px;height:auto;float:left;margin-left:20px;border-left:2px solid #BF7381;padding-left:10px;"><div style="margin-bottom:5px;">Nulla egestas et dui nec aliquam. Etiam tincidunt lorem non vestibulum luctus. Nulla congue pretium nibh vitae condimentum. Integer imperdiet, risus a egestas bibendum, mauris nisl finibus mi, eget varius velit risus sed lacus. </div></div></div><div style="width:280px;height:auto;float:left;"><div style="width:40px;height:auto;float:left;text-align:right;">secrets</div><div style="width:208px;height:auto;float:left;margin-left:20px;border-left:2px solid #BF7381;padding-left:10px;"><div style="margin-bottom:5px;">Vestibulum ullamcorper metus varius, malesuada mi bibendum, malesuada magna. In pharetra bibendum porta. Phasellus porta elit eget consectetur viverra. Ut est ligula, congue ut justo in, finibus semper leo.</div></div></div><div style="width:280px;height:auto;float:left;"><div style="width:40px;height:auto;float:left;text-align:right;">fears</div><div style="width:208px;height:auto;float:left;margin-left:20px;border-left:2px solid #BF7381;padding-left:10px;"><div style="margin-bottom:5px;">Maecenas sit amet dolor eu risus pretium porttitor et in erat. Suspendisse at nibh et est tristique luctus non vitae arcu. Proin vestibulum eros at enim ultricies volutpat. Pellentesque sit amet vestibulum nisi. Nulla volutpat nisl in tortor accumsan, eget egestas nisl sollicitudin. </div></div></div>
+			  </div>
+                <div style="width:44px;height:44px;float:right;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:-60px;margin-right:-23px;margin-bottom:20px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">#</div>
+                  </div>
+                </div>
+                 <div style="width:360px;height:20px;float:left;background-color:#BF7381;border-radius:0px 0px 10px 10px;">
+                  <div style="width:auto;height:auto;float:right;font-size:15px;color:rgba(255,255,255,0.5);font-weight:bold;margin-right:10px;margin-top:5px;">title here</div>
+					
+                </div>
+              </div>
+            </div>
+			     <div style="width:366px;height:auto;float:left;margin-top:15px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:13px;">
+              <div style="width:360px;height:auto;float:left;margin:3px;background-color:#F6F8FD;border-radius:10px;">
+                <div style="width:44px;height:44px;float:left;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:20px;margin-left:-23px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">05</div>
+                  </div>
+                </div>
+                <div style="width:280px;height:auto;float:left;margin:20px;margin-left:20px;color:#000;">
+                      <div style="width:280px;height:auto;float:left;background-color:rgba(0,0,0,0.1);border-radius:5px;margin-bottom:10px;">
+                        <div style="width:260px;height:auto;float:left;margin:10px;">
+                          <div style="font-weight:bold;float:left;margin-right:5px;background-color:#BF7381;border-radius:10px;"><div style="margin:5px;">「 a message from the writer 」</div></div>
+                          Integer velit est, accumsan nec finibus vitae, congue et metus. Aliquam ex dolor, porta ut leo quis, aliquet sodales libero. In et nisi arcu. Pellentesque efficitur ornare risus sed consectetur.</div>
+                      </div>
+                      <div style="width:280px;height:auto;float:left;margin-top:10px;">
+                        <div style="width:auto;height:auto;float:left;padding:1px 5px 1px 0px;border-right:2px solid #BF7381;border-radius:0px;margin-top:-2px;margin-right:10px;font-weight:bold;text-transform:uppercase;">alias + pronouns</div>
+                        Integer velit est, accumsan nec finibus vitae</div>
+                      <div style="width:280px;height:auto;float:left;margin-top:10px;">
+                        <div style="width:auto;height:auto;float:left;padding:1px 5px 1px 0px;border-right:2px solid #BF7381;border-radius:0px;margin-top:-2px;margin-right:10px;font-weight:bold;text-transform:uppercase;">timezone</div>
+                        Integer velit est, accumsan nec finibus vitae</div>
+                      <div style="width:280px;height:auto;float:left;margin-top:10px;">
+                        <div style="width:auto;height:auto;float:left;padding:1px 5px 1px 0px;border-right:2px solid #BF7381;border-radius:0px;margin-top:-2px;margin-right:10px;font-weight:bold;text-transform:uppercase;">writing style</div>
+                        Integer velit est, accumsan nec finibus vitae</div>
+                      <div style="width:280px;height:auto;float:left;margin-top:10px;">
+                        <div style="width:auto;height:auto;float:left;padding:1px 5px 1px 0px;border-right:2px solid #BF7381;border-radius:0px;margin-top:2px;margin-right:10px;font-weight:bold;text-transform:uppercase;">genre preferences</div>
+                        Integer velit est, accumsan nec finibus vitae, congue et metus. Aliquam ex dolor, porta ut leo quis, aliquet sodales libero. In et nisi arcu. Pellentesque efficitur ornare risus sed consectetur. </div>
+                      <div style="width:280px;height:auto;float:left;margin-top:10px;">
+                        <div style="width:auto;height:auto;float:left;padding:1px 5px 1px 0px;border-right:2px solid #BF7381;border-radius:0px;margin-top:2px;margin-right:10px;font-weight:bold;text-transform:uppercase;">plotting preferences</div>
+                        Integer velit est, accumsan nec finibus vitae, congue et metus. Aliquam ex dolor, porta ut leo quis, aliquet sodales libero. In et nisi arcu. Pellentesque efficitur ornare risus sed consectetur. </div>
+                    </div>
+                <div style="width:44px;height:44px;float:right;border-radius:50px;background-color:rgba(0,0,0,0.1);margin-top:-60px;margin-right:-23px;margin-bottom:20px;">
+                  <div style="width:40px;height:40px;float:left;border-radius:50px;background-color:#BF7381;margin:2px;">
+                    <div style="text-align:center;font-size:15px;font-weight:bold;margin-top:15px;color:#f6f8fd;">#</div>
+                  </div>
+                </div>
+                <div style="width:360px;height:20px;float:left;background-color:#BF7381;border-radius:0px 0px 10px 10px;">
+                  <div style="width:auto;height:auto;float:right;font-size:15px;color:rgba(255,255,255,0.5);font-weight:bold;margin-right:10px;margin-top:5px;">title here</div>
+					
+                </div>
+              </div>
+            </div>
+            <div style="width:340px;height:50px;float:left;margin:30px;margin-top:15px;border:1px dashed #ddd;border-radius:30px;">
+              <div style="margin-top:15px;margin-left:165px;;color:#ddd;font-size:30px;">+</div>
+            </div>
+          </div>
+        </div>
+        <div style="width:550px;height:40px;float:left;background-color:#fff;margin-left:-100px;border-radius:0px 0px 10px 10px;">
+          <div style="width:28px;height:28px;float:left;margin-top:5px;margin-left:20px;background-color:rgba(0,0,0,0.1);border-radius:5px;"><img alt="" src="https://i.imgur.com/zWfD03H.png?1" style="width:24px;height:24px;margin:2px;border-radius:3px;"></div>
+          <div style="width:auto;height:auto;float:left;margin:8px;margin-top:10px;">
+            <div style="color:#000;font-weight:bold;">song here</div>
+            <div style="color:#000;">artist here</div>
+          </div>
+          <div style="width:180px;height:20px;float:left;margin-top:10px;color:#000;"><img alt="" src="https://i.imgur.com/WESSZuK.png" style="width:10px;height:10px;margin-top:5px;margin-left:10px;float:left;">
+            <div style="width:15px;height:15px;float:left;margin:5px;">
+              <div style="width:10px;height:10px;float:left;margin-left:5px;margin-top:0px;opacity:0.001;">
+                <iframe width="10" height="10" src="https://www.youtube.com/embed/cSLTL6BUJcc" ></iframe>
+              </div>
+              <img alt="" src="https://i.imgur.com/lcurEt5.png" style="width:10px;height:10px;margin-top:-10px;margin-left:10px;float:left;"></div>
+            <img alt="" src="https://i.imgur.com/bXyys25.png" style="width:10px;height:10px;margin-top:5px;margin-left:12px;float:left;">
+            <div style="font-family:calibri;font-size:8px;float:left;margin-left:20px;margin-top:5px;">1:18</div>
+            <div style="font-family:calibri;font-size:8px;float:left;margin-left:225px;margin-top:-20px;">3:08</div>
+            <div style="width:98px;height:0px;float:left;margin-top:-15px;margin-left:115px;border-top:1px solid #191814;"></div>
+            <div style="width:5px;height:5px;float:left;border-radius:20px;background-color:#191814;margin-top:-16.5px;margin-left:150px;"></div>
+          </div>
+			<div style="width:10px;height:10px;float:right;margin-right:30px;margin-top:8px;"><img alt="" src="https://i.imgur.com/nRl3qvE.png?1" style="width:10px;height:10px;margin-top:5px;margin-left:12px;float:left;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

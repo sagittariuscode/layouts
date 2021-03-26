@@ -9,8 +9,8 @@
             <div style="width:10px;height:10px;float:left;background-color:#8BC94D;border-radius:50%;margin-left:5px;"></div>
           </div>
           <div style="width:80px;height:auto;float:left;font-size:20px;line-height:15px;margin-left:10px;">
-            <div style="font-size:25px;color:rgba(0,0,0,0.5);margin-left:7px;margin-top:-5px;"><strong>name here</strong></div>
-            <div style="font-size:25px;color:#fff;margin-top:-30px;margin-left:5px;"><strong>name here</strong></div>
+            <div style="font-size:20px;color:rgba(0,0,0,0.5);margin-left:7px;margin-top:-5px;"><strong>name here</strong></div>
+            <div style="font-size:20px;color:#fff;margin-top:-30px;margin-left:5px;"><strong>name here</strong></div>
             <div style="font-size:8px;color:#9F9F9F;margin-top:4px;margin-left:5px;">@username</div>
           </div>
           <div style="width:80px;height:auto;float:left;margin:7px;">

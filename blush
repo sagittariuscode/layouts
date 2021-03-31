@@ -21,7 +21,7 @@
           <div style="width:90px;height:auto;float:left;margin-top:20px;margin-left:16px;">
             <div style="font-size:12px;font-weight:bold;color:#656D78;">plot tracker</div>
             <div style="width:70px;height:160px;float:left;overflow:hidden;margin-top:10px;border-left:1px solid #656D78;color:#656D78;">
-              <div style="width:70px;height:160px;float:left;overflow:auto;">
+              <div style="width:90px;height:160px;float:left;overflow:auto;">
                 <div style="width:auto;height:auto;float:left;">
                   <div style="width:10px;height:10px;float:left;border-top:1px solid #656D78;margin-top:10px;"></div>
                   <div style="width:55px;height:auto;float:left;margin-top:5px;margin-left:5px;">plot name</div>
